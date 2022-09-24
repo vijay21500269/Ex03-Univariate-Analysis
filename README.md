@@ -47,7 +47,7 @@ sns.histplot(x='Postal Code',data=df)
 ## DATA
 ![Output1](https://github.com/vijay21500269/Ex03-Univariate-Analysis/blob/main/DS%201.png)
 ## DATA HEAD
-![Output2]()
+![Output2](https://github.com/vijay21500269/Ex03-Univariate-Analysis/blob/main/DS%202.png)
 ## DATA INFORMATION
 ![Output3]()
 ## DATA DESCRIBE
