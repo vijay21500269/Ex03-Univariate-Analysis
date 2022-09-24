@@ -59,7 +59,7 @@ sns.histplot(x='Postal Code',data=df)
 ## DATA'S VALUECOUNT
 ![Output7](https://github.com/vijay21500269/Ex03-Univariate-Analysis/blob/main/DS%207.png)
 ## BOXPLOT
-![Output8]()
+![Output8](https://github.com/vijay21500269/Ex03-Univariate-Analysis/blob/main/DS%208.png)
 ## COUNTPLOT
 ![Output9]()
 ## DISTRIBUTION PLOT
