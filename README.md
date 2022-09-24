@@ -63,7 +63,7 @@ sns.histplot(x='Postal Code',data=df)
 ## COUNTPLOT
 ![Output9](https://github.com/vijay21500269/Ex03-Univariate-Analysis/blob/main/DS%209.png)
 ## DISTRIBUTION PLOT
-![Output10]()
+![Output10](https://github.com/vijay21500269/Ex03-Univariate-Analysis/blob/main/DS%2010.png)
 ## HISTOGRAM PLOT
 ![Output11]()
 # Result:
