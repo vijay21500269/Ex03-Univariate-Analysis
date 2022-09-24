@@ -65,7 +65,7 @@ sns.histplot(x='Postal Code',data=df)
 ## DISTRIBUTION PLOT
 ![Output10](https://github.com/vijay21500269/Ex03-Univariate-Analysis/blob/main/DS%2010.png)
 ## HISTOGRAM PLOT
-![Output11]()
+![Output11](https://github.com/vijay21500269/Ex03-Univariate-Analysis/blob/main/DS%2011.png)
 # Result:
 Thus we have read the given data and performed the univariate analysis with different types of plots.
 
